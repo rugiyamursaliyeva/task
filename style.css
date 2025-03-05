@@ -76,6 +76,7 @@ body {
     border-top: 1px solid #2f415b;
     padding-top: 15px;
     font-size: 12px;
+    color: #9ab1d1;
 }
 
 .creator img {
@@ -84,12 +85,15 @@ body {
     border-radius: 50%;
     object-fit: cover;
     margin-right: 10px;
+    border: 2px solid white;
+    border: 2px solid white;
 }
 
 .creator a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
+    border-bottom: 1px solid white;
 }
 
 .creator a:hover {
